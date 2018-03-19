@@ -92,13 +92,10 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "JX的博客",
+        href: "http://jiaxin96.github,io"
     },{
         title: "前端外刊评论",
         href: "http://qianduan.guru/"
-    },{
-        title: "JXJ的博客",
-        href: "http://jiaxin96.github,io"
     }
 ]
