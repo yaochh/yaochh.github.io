@@ -1,21 +1,21 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Yaochh Blog
+SEOTitle: 楚晖的博客 | Yaochh Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+email: 448648048@qq,com
+description: "这里是 chuhui 的个人博客，与你一起发现更大的世界。"
+keyword: "黄玄的博客, Hux Blog, 博客, 个人网站, Web, JavaScript, 前端, 设计"
+url: "https://yaochh.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     none
+zhihu_username:     none
+github_username:    yaochh
+twitter_username:   none
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
@@ -46,9 +46,9 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
-
+# 评论系统
 # Disqus settings
-disqus_username: hux
+disqus_username: yaochh
 
 # Netease setttings
 netease_comment: false
@@ -59,6 +59,8 @@ netease_comment: false
 # Baidu Analytics 
 # ba_track_id: [your track id]
 
+
+# 站长工具
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 ga_domain: huangxuan.me
@@ -96,28 +98,7 @@ friends: [
         title: "前端外刊评论",
         href: "http://qianduan.guru/"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "JXJ的博客",
+        href: "http://jiaxin96.github,io"
     }
 ]
