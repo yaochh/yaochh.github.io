@@ -4,7 +4,7 @@ title:        "摘抄"
 subtitle:     "村上春树——雨天，炎天"
 date:         2018-3-24 00:13:13
 author:       "yaochh"
-header-img:   "img/in-post/post-eleme-pwa/eleme-at-io-01.jpg"
+header-img:   "img/in-post/post-eleme-pwa/eleme-at-io-01.JPG"
 header-mask:  0.3
 catalog:      true
 multilingual: true
