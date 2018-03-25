@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "生日快乐"
-subtitle:     "记一个朋友——未完成"
+subtitle:     "记一个朋友"
 date:         2018-03-19 12:00:00
 author:       "yaochh"
 header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
