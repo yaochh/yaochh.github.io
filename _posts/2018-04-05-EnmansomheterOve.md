@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "她就是生活——未完成"
+title:        "她就是生活"
 subtitle:     "一个叫欧维的男人决定去死"
 date:         2018-4-5 23:27:56
 author:       "yaochh"
